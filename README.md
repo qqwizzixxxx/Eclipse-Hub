@@ -17,3 +17,6 @@ Auth Link+ type=2 = Full Auth Link Of Lite Version
 The Links Are Pretty Easy To Decrypt
 
 (I Hope I Didnt Gettin Blacklisted🙏)
+
+> [!CAUTION]
+> This Is Only Example How Easy To Decode On Author Is Just A Skidder Who Found A Way How To Decode Links And Doesnt Want To Exploit It Such As A Posting Source Online!</bold>
