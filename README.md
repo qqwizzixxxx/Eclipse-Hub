@@ -15,3 +15,5 @@ Here Some Hints;)
 Auth Link+ type=2 = Full Auth Link Of Lite Version
 
 The Links Are Pretty Easy To Decrypt
+
+(I Hope I Didnt Gettin Blacklisted🙏)
