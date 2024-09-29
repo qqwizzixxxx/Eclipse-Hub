@@ -7,10 +7,10 @@ Here I Found A Way How To Get Auth Link And Using Just A Java Script I Can See S
 
 Here Some Hints;)
 
-#Main Version
+# Main Version
 \?\107e\121\61 =  "?key=" + getgenv().mainkey = ?key=nil
 
-#Lite Version
+# Lite Version
 
 Auth Link+ type=2 = Full Auth Link Of Lite Version
 
